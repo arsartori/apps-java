@@ -8,6 +8,6 @@ public class HomeController {
 
     @GetMapping("/")
     public String home() {
-        return "Demo Tomcat 7.0";
+        return "APP demo Tomcat 7.0";
     }
 }
